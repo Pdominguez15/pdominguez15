@@ -30,7 +30,7 @@ const pdominguez15 = {
         },
         databases: ["Mongo", "MySql", "DB2"],
         bundling: ["Webpack", "Parcel"],
-        testing: ["Jest", "Cypress","Postnman"],
+        testing: ["Jest", "Cypress","Postman"],
         cloud: ["Git", "GitHub", "Heroku", "AWS", "Docker"]
     }
 };
