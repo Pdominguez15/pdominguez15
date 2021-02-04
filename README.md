@@ -6,7 +6,7 @@
 <a href="mailto:example@email.com">
   <img align="left" alt="Pedro´s email" width="22px" src="https://user-images.githubusercontent.com/63956136/106933153-e42d9280-6718-11eb-8f2b-ce100929d4fb.png" />
 </a>
-<a href="https://www.twitter.com/pdominguez15">
+<a href="https://www.twitter.com/pdominguez_15">
   <img align="left" alt="Pedro´s twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>  
 
