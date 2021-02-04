@@ -10,6 +10,29 @@
   <img align="left" alt="Pedro´s twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>  
 
-![](https://visitor-badge.glitch.me/badge?page_id=pdominguez15.pdominguez15)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=pdominguez15.pdominguez15)
     
 <br />
+
+### 👨‍💻 About Me:  
+
+```javascript
+const pdominguez15 = {
+    code: ["Javascript", "Typescript", "Java", "Cobol"],
+    layout: ["CSS3", "SASS"],
+    technologies: {
+        frontEnd: {
+            frameworksLibrary: ["React", "Redux", "RXJS", "Angular", "Vue"],
+            css: ["Material-UI", "Angular-Material-UI", "Vuetify"]
+        },
+        backEnd: {
+            js: ["Node", "Express","GraphQL"]
+        },
+        databases: ["Mongo", "MySql", "DB2"],
+        bundling: ["Webpack", "Parcel"],
+        testing: ["Jest", "Cypress","Postnman"],
+        cloud: ["Git", "GitHub", "Heroku", "AWS", "Docker"]
+    }
+};
+```
+
